@@ -1,11 +1,13 @@
 # To Do List Management System
 
+<div align="center">
+  
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 
-<div align="center">
+
   <img src="img/img.png" alt="Task Manager Logo" width="200"/>
   
   *A comprehensive task management solution for professionals*
