@@ -153,7 +153,7 @@ python-dateutil==2.8.2  # Date handling
 1. Clone the repository:
    ```bash
    git clone https://github.com/sabbirahmad12/to-do-list-application.git
-   cd task-manager
+   cd to-do-list-application
    ```
 
 2. Create a virtual environment (recommended):
