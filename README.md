@@ -16,17 +16,17 @@
 ## 📑 Table of Contents
 - [Overview](#-overview)
 - [Features](#-features)
-- [Screenshots](#screenshots)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage Guide](#usageguide)
-- [Theme Customization](#themecustomization)
-- [Project Structure](#projectstructure)
-- [Technical Details](#technicaldetails)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
+- [Screenshots](#-screenshots)
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [Usage Guide](#-usageguide)
+- [Theme Customization](#-themecustomization)
+- [Project Structure](#-projectstructure)
+- [Technical Details](#-technicaldetails)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Authors](#-authors)
+- [Acknowledgments](#-acknowledgments)
 
 ## 🌟 Overview
 
