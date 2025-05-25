@@ -14,8 +14,8 @@
 </div>
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
+- [Overview](#-overview)
+- [Features](#-features)
 - [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
