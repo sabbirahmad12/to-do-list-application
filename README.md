@@ -27,6 +27,7 @@
 - [License](#-license)
 - [Authors](#-authors)
 - [Acknowledgments](#-acknowledgments)
+- [Star And Fork](#-starandfork)
 
 ## 🌟 Overview
 
@@ -99,6 +100,7 @@ A sophisticated task management application built with Python Tkinter, designed 
   - Cloud backup support
   - Export/Import functionality
   - API support
+
 
 ## 🖼️ Screenshots
 
@@ -321,6 +323,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by modern task management tools
 - Built with Python and Tkinter
 - Uses various open-source libraries
+
+## 🌟 Star and Fork 🚀
+
+### Thanks For Star🙏👨‍💻
+[![Stargazers repo](https://reporoster.com/stars/sabbirahmad12/to-do-list-application)](https://github.com/sabbirahmad12/to-do-list-application/)
+
+### Thanks For Fork 🙏👨‍💻
+
+[![Forkers repo](https://reporoster.com/forks/sabbirahmad12/to-do-list-application)](https://github.com/sabbirahmad12/to-do-list-application/network/members)
 
 ---
 
